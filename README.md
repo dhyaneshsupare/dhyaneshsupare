@@ -1,7 +1,6 @@
-[![MasterHead](https://in.images.search.yahoo.com/images/view;_ylt=Awr1Tojto21mDhE7XHa9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzM1MDk2YWVjNmZlNDVlZGNlZjhiYTc3YTAzMTNlZDNiBGdwb3MDNTEEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bgif%2Bbanner%2Bfor%2Bcoders%26ei%3DUTF-8%26type%3DE210IN885G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26tab%3Dorganic%26ri%3D51&w=1920&h=590&imgurl=www.digitalsolutionservices.com%2Fimg%2Fservices%2Fweb%2520development.gif&rurl=https%3A%2F%2Fgithub.com%2Fhemantkumar980%2F&size=49.6KB&p=animated+gif+banner+for+coders&oid=35096aec6fe45edcef8ba77a0313ed3b&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=hemantkumar980+%28HEMANT+KUMAR%29+%C2%B7+GitHub&b=0&ni=160&no=51&ts=&tab=organic&sigr=eq0sR0MZG5RX&sigb=A3MiWTv3HFhg&sigi=xnYl0ZKLR4FW&sigt=9adMNKNmpfiP&.crumb=Pykx0hAFq2U&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&type=E210IN885G0)]
 
 <h1 align="center">Hi 👋, I'm Dhyanesh Supare</h1>
-<h3 align="center">A passionate frontend and Backend developer from India</h3>
+<h3 align="center">A passionate Frontend and Backend developer from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://tse2.mm.bing.net/th?id=OIP.LvNp_-MBZql0m_nU_CQwuwHaHa&pid=Api&P=0&h=180">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyaneshsupare&label=Profile%20views&color=0e75b6&style=flat" alt="dhyaneshsupare" /> </p>
