@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **DSA with Java**
 
-- 👨‍💻 All of my projects are available at [dhyaneshsupare.interns-es.in](dhyaneshsupare.interns-es.in)
-
-- 💬 Ask me about **Full Stack and DSA**
-
 - 📫 How to reach me **dhyaneshsupare712@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
