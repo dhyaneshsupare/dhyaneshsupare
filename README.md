@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyaneshsupare&label=Profile%20views&color=0e75b6&style=flat" alt="dhyaneshsupare" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA & WEB DEVELOPEMENT**
 
 - 📫 How to reach me **dhyaneshsupare712@gmail.com**
 
