@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA & WEB DEVELOPEMENT**
 
-- 📫 How to reach me **dhyaneshsupare712@gmail.com**
+- 📫 How to reach me **dhyaneshsupare@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
